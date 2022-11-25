@@ -1,3 +1,5 @@
+[< Back to Main](./README.md)
+
 ### Two Pointers
 
 The two pointers approach deals with problems that have a sorted array or Linked List and you need to find a set of elements that fulfill some kind of criteria. The set of elements can be any size subset of the array.

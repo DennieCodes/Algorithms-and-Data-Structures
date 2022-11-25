@@ -11,3 +11,4 @@ Note: I use coding resources besides Leetcode and I am also studying data struct
 ## Algorithm Patterns
 
 [Sliding Window](algorithms/sliding-window/README.md)
+[Two Pointers](algorithms/two-pointers/README.md)
