@@ -8,6 +8,10 @@ An example of a problem that suits this is when you have to search an array or L
 
 Note: On the LeetCode links go to the discussion tab where you'll be able to set a search term for whatever programming language you're currently studying. Try to read the discussions with the most upvotes and/or views.
 
+[LeetCode Directory of problems tagged with: Two Pointers](https://leetcode.com/tag/two-pointers/)
+
+Additional Problems:
+
 #### Easy Problems
 
 [LeetCode: Two Sum](https://leetcode.com/problems/two-sum/)

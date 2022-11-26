@@ -6,6 +6,10 @@ The idea behind the sliding window pattern deals with problems that have an arra
 
 Note: On the LeetCode links go to the discussion tab where you'll be able to set a search term for whatever programming language you're currently studying. Try to read the discussions with the most upvotes and/or views.
 
+[LeetCode Directory of problems tagged with: Sliding Window](https://leetcode.com/tag/sliding-window/)
+
+Additional Problems:
+
 #### Easy Problems
 
 [LeetCode: Find Winner on a Tic Tac Toe game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)
