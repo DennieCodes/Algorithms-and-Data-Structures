@@ -13,3 +13,7 @@ Note: I use coding resources besides Leetcode and I am also studying data struct
 [Sliding Window](algorithms/sliding-window/README.md)
 
 [Two Pointers](algorithms/two-pointers/README.md)
+
+[Fast and Slow Pointers](algorithms/fast-and-slow-pointers/README.md)
+
+[Merge Intervals](algorithms/merge-intervals/README.md)
