@@ -17,3 +17,5 @@ Note: I use coding resources besides Leetcode and I am also studying data struct
 [Fast and Slow Pointers](algorithms/fast-and-slow-pointers/README.md)
 
 [Merge Intervals](algorithms/merge-intervals/README.md)
+
+[Cyclic Sort](algorithms/cyclic-sort/README.md)
