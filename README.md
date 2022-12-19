@@ -19,3 +19,5 @@ Note: I use coding resources besides Leetcode and I am also studying data struct
 [Merge Intervals](algorithms/merge-intervals/README.md)
 
 [Cyclic Sort](algorithms/cyclic-sort/README.md)
+
+[In Place Reversal of Linked List](algorithms/in-place-reversal-of-linked-list/README.md)
