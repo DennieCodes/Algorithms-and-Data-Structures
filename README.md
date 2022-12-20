@@ -21,3 +21,5 @@ Note: I use coding resources besides Leetcode and I am also studying data struct
 [Cyclic Sort](algorithms/cyclic-sort/README.md)
 
 [In Place Reversal of Linked List](algorithms/in-place-reversal-of-linked-list/README.md)
+
+[Breadth First Search (BFS)](algorithms/breadth-first-search/README.md)
